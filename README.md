@@ -2,8 +2,6 @@
 
 <img align="right" width="250px" src="https://rnielikki.github.io/Blog/contents/files/csharp9/brain.jpg">
 
-> "We have mission to empower everyone to achieve more! - from Microsoft"
-
 > "Familiar programming language for me just means I need less Googling for the language and I understand the same paradigm as the language. Nothing more."
 
 ### Who are you?
