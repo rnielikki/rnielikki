@@ -8,6 +8,7 @@
 
 * Well-seasoned developer with syntax sugar
 * Have CSS Degree (transform:rotate(360deg))
+* Having experience to quit Vim
 * MaaS (Meme as a Service)
 * Fluent at TypoScript
 * \&nbsp;
